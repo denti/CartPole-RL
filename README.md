@@ -6,3 +6,5 @@
  
 2. #### CartPole_GA.ipynb - contains code for learning to play automatically with genetic algorithm
 3. #### CartPole_Q_learning.ipynb - contains code for learning to play automatically with DQN
+
+##### Other methods coming soon...
